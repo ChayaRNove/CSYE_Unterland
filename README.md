@@ -1,7 +1,10 @@
 # CSYE_Unterland
-References and other infos for Unterland testimonies
-
 List of testimonies in Unterland corpus analyzed
+
+Citation: 
+USC Shoah Foundation Visual History Archive. USC Shoah Foundation. 
+&
+Bleaman, Isaac L., and Chaya R. Nove. In press. The Corpus of Spoken Yiddish in Europe: Goals, methods, and applications. Language Documentation & Conservation.
 
 | Last Name    | Code  | Gender | Birth Year | Raised               | Country      | Interview Country | Interview Year | Files                                   |
 |--------------|-------|--------|------------|----------------------|--------------|-------------------|----------------|-----------------------------------------|
